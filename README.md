@@ -1,7 +1,7 @@
 # 🌿 Greenstitch Dashboard
 Welcome to the Greenstitch Dashboard repository! This project is a Full Stack developer assignment, built with Next.js and hosted on Vercel. The dashboard provides users with an intuitive interface to visualize their environmental impact data.
 
-### 🌐 Live Demo - [github.com/aanchalraj08/greenstitch-dashboard](https://github.com/aanchalraj08/greenstitch-dashboard)
+### 🌐 Live Demo - [greenstitch-aanchalraj08.vercel.app](https://greenstitch-aanchalraj08.vercel.app/)
 
 <br/>
 
