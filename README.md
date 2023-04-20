@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 Greenstitch Dashboard
+Welcome to the Greenstitch Dashboard repository! This project is a Full Stack developer assignment, built with Next.js and hosted on Vercel. The dashboard provides users with an intuitive interface to visualize their environmental impact data.
 
-## Getting Started
+### 🌐 Live Demo - [github.com/aanchalraj08/greenstitch-dashboard](https://github.com/aanchalraj08/greenstitch-dashboard)
 
-First, run the development server:
+<br/>
 
-```bash
+# 🛠️ Technology Stack
+The Greenstitch Dashboard is built using the following technologies:
+
+- **Next.js:** A React-based framework for building server-side rendered applications.
+
+- **React:** A JavaScript library for building user interfaces.
+
+- **Tailwind CSS:** A utility-first CSS framework for building responsive and scalable user interfaces.
+
+- **Vercel:** Next.js official hosting service for web apps.
+
+# 🚀 Run on Local
+To get started with the Greenstitch Dashboard, simply clone this repository to your local machine, navigate to the root directory of the project, and run the following commands:
+
+```
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will start a development server on your local machine, and you can access the dashboard by opening your browser and navigating to http://localhost:3000.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# 🎨 Features
+The Greenstitch Dashboard comes with the following features:
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+- **Dashboard:** A customizable dashboard that displays important metrics and visualizations to help users understand their environmental impact.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Data Visualization:** The ability to view environmental impact data in multiple ways, including graphs, charts, and tables.
